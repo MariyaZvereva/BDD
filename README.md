@@ -1,1 +1,1 @@
-[![Java CI with Gradle](https://github.com/MariyaZvereva/patternstask2/actions/workflows/gradle-publish.yml/badge.svg)](https://github.com/MariyaZvereva/patternstask2/actions/workflows/gradle-publish.yml)
+[![Java CI with Gradle](https://github.com/MariyaZvereva/BDD/actions/workflows/gradle-publish.yml/badge.svg)](https://github.com/MariyaZvereva/BDD/actions/workflows/gradle-publish.yml)
